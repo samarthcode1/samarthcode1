@@ -86,7 +86,24 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![JMeter](https://img.shields.io/static/v1?style=for-the-badge&message=Apache%20JMeter&color=D22128&logo=Apache-JMeter&logoColor=FFFFFF&label=)](https://jmeter.apache.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)](https://www.linux.org/)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=sai-sreekhar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sai-sreekhar&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-sreekhar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sai-sreekhar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+# 🏆 Achievements:
+
+- 🌟 Newbie Rating (1015) on Codeforces
+- 🌟 Solved 250+ problems on Data Structures and Algorithms.
+- 🌟 3 Star Coder on Codechef
+
+
+
 
 
