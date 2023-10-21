@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samarth-nag-444b6b226/) 
 [![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/samarthnag/) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/samarthcode1)
-[![Twitter](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://twitter.com/SamarthN28706)
+[![Codechef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/samarthnag2)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SamarthN28706)
 
 ## 📄 Resume 
 
@@ -41,8 +42,8 @@ Here are some ideas to get you started:
 ## 📚 Education 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering with specialization in Internet Of Things
+  
 # 💻 Technical Skills:
-
 **Programming Languages:**
 
 [![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)](https://www.cprogramming.com/)
@@ -78,7 +79,6 @@ Here are some ideas to get you started:
 [![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
 
 
-
 **Others:**
 
 [![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-808080.svg?style=for-the-badge&logo=DataCamp&logoColor=white)](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
@@ -86,15 +86,15 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-# 📊 GitHub Stats:
+## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=samarthcode1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samarthcode1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samarthcode1&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthcode1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=samarthcode1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 # 🏆 Achievements:
 
