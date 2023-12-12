@@ -32,7 +32,28 @@
 ## 📚 Education 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering with specialization in Internet Of Things
-  
+## 🚀 Projects 
+- **ListenUp**
+  - Online podcast streaming Website
+  - [GitHub Repository](https://github.com/samarthcode1/Ethnus-Project)   [Deployment Link](https://ethnus-project-frontend.vercel.app/)
+
+## 💼 Experience 
+
+- **CodSoft**(December 2023 - January 2024)
+   - Full Stack Web Development Internship
+   - [Offer Letter](https://drive.google.com/file/d/1aU89gSpNPYULJS3juCGFaUQk3rkMJRdn/view?usp=sharing)
+
+- **Bharat Intern**(December 2023 - January 2024)
+  - Full Stack Web Development Internship
+  - [Offer Letter](https://drive.google.com/file/d/1asbvlFWNOhGnZCmx4XdikEXK_7_Fwd_P/view?usp=sharing)
+
+- **Sparks Foundation**(December 2023 - January 2024)
+  - Full Stack Web Development Internship
+  - [Offer Letter](https://drive.google.com/file/d/1kpT93GvOsa2yloIePtacqZuYP2q_vMT9/view?usp=sharing)
+ 
+- **Ethnus Codemithra**(August 2023 - November 2023)
+  - MERN Full Stack Internship
+  - [Completion Certificate](https://drive.google.com/file/d/1dCGqrV8Ew05KlwwVhh_zq2zeHPsfeR6f/view?usp=sharing)  
 # 💻 Technical Skills:
 **Programming Languages:**
 
