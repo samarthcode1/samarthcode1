@@ -27,7 +27,7 @@
 
 ## 📄 Resume 
 
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/11YhRNXHpomv-ubQFnqEkLXA8G4Ddhdo3/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1T_De_9qTXkUOFQAMD6kq6Xlzfd3pqltq/view?usp=sharing)
 
 ## 📚 Education 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
