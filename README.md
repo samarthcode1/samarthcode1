@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Samarth Nag</h1>
-<h3 align="center"> Competitive Coder | Passionate Full-Stack Developer | </h3>
+<h3 align="center">Full Stack MERN Developer | Software Developer | Competitive Coder | AWS Certified Cloud Practitioner </h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/Artificial-Intelligence-Web-Development-blog.jpg">
 
@@ -42,15 +42,6 @@
 - **CodSoft**(December 2023 - January 2024)
    - Full Stack Web Development Internship
    - [Offer Letter](https://drive.google.com/file/d/1aU89gSpNPYULJS3juCGFaUQk3rkMJRdn/view?usp=sharing)
-
-- **Bharat Intern**(December 2023 - January 2024)
-  - Full Stack Web Development Internship
-  - [Offer Letter](https://drive.google.com/file/d/1asbvlFWNOhGnZCmx4XdikEXK_7_Fwd_P/view?usp=sharing)
-
-- **Sparks Foundation**(December 2023 - January 2024)
-  - Full Stack Web Development Internship
-  - [Offer Letter](https://drive.google.com/file/d/1kpT93GvOsa2yloIePtacqZuYP2q_vMT9/view?usp=sharing)
- 
 - **Ethnus Codemithra**(August 2023 - November 2023)
   - MERN Full Stack Internship
   - [Completion Certificate](https://drive.google.com/file/d/1dCGqrV8Ew05KlwwVhh_zq2zeHPsfeR6f/view?usp=sharing)  
