@@ -32,6 +32,16 @@
 ## 📚 Education 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering with specialization in Internet Of Things
+## 📈 Coding Profiles
+
+<span>
+<a href="https://codeforces.com/profile/samarthcode1">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=samarthcode1&theme=github_dark&force_username=true&border_color=404040" alt="Samarth Nag Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/samarthnag/">
+<img height="316" src="https://leetcard.jacoblin.cool/samarthnag?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/samarthnag/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Samarth Nag Leetcode Stats"/>
+</a>
+</span>
 ## 🚀 Projects 
 - **ListenUp**
   - Online podcast streaming Website
@@ -41,7 +51,7 @@
 
 - **CodSoft**(December 2023 - January 2024)
    - Full Stack Web Development Internship
-   - [Offer Letter](https://drive.google.com/file/d/1aU89gSpNPYULJS3juCGFaUQk3rkMJRdn/view?usp=sharing)
+   - [Offer Letter](https://drive.google.com/file/d/1PQYZUvR421Y3ffKxOF-IoLJ3IkKiJrbC/view?usp=sharing)
 - **Ethnus Codemithra**(August 2023 - November 2023)
   - MERN Full Stack Internship
   - [Completion Certificate](https://drive.google.com/file/d/1dCGqrV8Ew05KlwwVhh_zq2zeHPsfeR6f/view?usp=sharing)  
@@ -100,7 +110,7 @@
 
 # 🏆 Achievements:
 
-- 🌟 Newbie Rating (1015) on Codeforces
+- 🌟 Newbie Rating (1161) on Codeforces
 - 🌟 Solved 500+ problems on Data Structures and Algorithms.
 - 🌟 3 Star Coder on Codechef
 
