@@ -29,11 +29,7 @@
 
 [![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1T_De_9qTXkUOFQAMD6kq6Xlzfd3pqltq/view?usp=sharing)
 
-## 📚 Education 
-- **Vellore Institute of Technology, Vellore** (2021-2025)
-  - Bachelor of Technology - Computer Science and Engineering with specialization in Internet Of Things
 ## 📈 Coding Profiles
-
 <span>
 <a href="https://codeforces.com/profile/samarthcode1">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=samarthcode1&theme=github_dark&force_username=true&border_color=404040" alt="Samarth Nag Codeforces Stats"/>
@@ -42,6 +38,12 @@
 <img height="316" src="https://leetcard.jacoblin.cool/samarthnag?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/samarthnag/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Samarth Nag Leetcode Stats"/>
 </a>
 </span>
+
+
+## 📚 Education 
+- **Vellore Institute of Technology, Vellore** (2021-2025)
+  - Bachelor of Technology - Computer Science and Engineering with specialization in Internet Of Things
+
 ## 🚀 Projects 
 - **ListenUp**
   - Online podcast streaming Website
