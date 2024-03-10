@@ -8,7 +8,7 @@
 
 - I am a Full-Stack Developer with a strong passion for learning new technologies and possess good problem-solving and coding skills and ML Enthusiast.
   
-- Solved 300+ Problems on Leetcode
+- Solved 400+ Problems on Leetcode
 
 - **Newbie** @codeforces
 - **3⭐** @codechef
