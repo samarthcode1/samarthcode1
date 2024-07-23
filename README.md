@@ -9,7 +9,7 @@
 
 - I am a Full-Stack MERN Web Developer and Software Developer with a strong passion for learning new technologies.
 - Have Solved 600+ Problems on Leetcode
-- Currently exploring Cloud Services such as AWS
+- Currently exploring Cloud Services such as AZURE
 
 - 📫 You can reach me at **nagsamarth3@gmail.com**
 
