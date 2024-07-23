@@ -4,6 +4,22 @@
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/A
 
+## 👨🏻‍💻 About Me 
+
+- I am a Full-Stack MERN Web Developer and Software Developer with a strong passion for learning new technologies.
+- Have Solved 600+ Problems on Leetcode
+- Currently exploring Cloud Services such as AWS
+
+- 📫 You can reach me at **nagsamarth3@gmail.com**
+
+
+## 🌐 Accounts:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samarth-nag-444b6b226/) 
+[![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/u/samarthnag/) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/samarthcode1)
+[![Codechef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/samarthnag2)
+
 ## 📈 Coding Profiles
 <span>
 <a href="https://codeforces.com/profile/samarthcode1">
