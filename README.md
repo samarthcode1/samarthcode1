@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Nag</h1>
 <h3 align="center">Full Stack MERN Developer | Software Developer | Competitive Coder | AWS Certified Cloud Practitioner </h3>
 <br>
-<img align="right" alt="Coding" width="500" src="https://imageio.forbes.com/specials-images/imageserve/61d52d4e3a76ed81ac034ea8/The-10-Tech-Trends-That-Will-Transform-Our-World/960x0.jpg?height=399&width=711&fit=bounds">
+<img align="right" alt="Coding" width="500" src="https://imageio.forbes.com/specials-images/imageserve/5e9d22231048ea0006cc0a6e/These-25-Technology-Trends-Will-Define-The-Next-Decade/960x0.jpg?format=jpg&width=1440">
 
 
 ## 👨🏻‍💻 About Me 
